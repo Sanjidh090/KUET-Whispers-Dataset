@@ -9,7 +9,7 @@
 
 ## 📌 Overview
 
-The **KUET Whispers Dataset** contains anonymized Facebook posts from the "KUET Whispers" page, a platform used by students at KUET to share opinions, confessions, experiences, and discussions. This dataset aims to provide insights into the social, academic, and emotional dynamics of students in a university environment. Here is the link for download:
+The **KUET Whispers Dataset** contains anonymized Facebook posts from the "KUET Whispers" page, a platform used by students at KUET to share opinions, confessions, experiences, and discussions. This dataset aims to provide insights into the social, academic, and emotional dynamics of students in a university environment. To download:
 https://www.kaggle.com/datasets/sanjidh090/kuet-whispers
 
 ---
